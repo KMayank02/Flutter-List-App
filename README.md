@@ -2,18 +2,18 @@
 <h1> List App </h1>
 </div>
 
-##A simple list app project that is easy to use and built using flutter and firebase.<br> 
+A simple list app project that is easy to use and built using flutter and firebase.<br> 
 In this app, the user has to login or create an account using email. The user can then add items to the list along with their prices. After the item is added, the name price and the date time of item addition will be displayed along with a checkbox. 
 
 When the checkbox is checked, the items will be striked. In addition to this, the user has a provision to remove items by swiping either left or right on the item tile. The items are stored and fetched dynamicslly from firebase firestore.
 
 ## Functionalities :-
-##1. Authentication
+1. Authentication
 
-##2. Adding item
+2. Adding item
 
-##3. Checking/Striking item
+3. Checking/Striking item
 
-##4. Removing item
+4. Removing item
   
 <div id="Bottom"></div>
